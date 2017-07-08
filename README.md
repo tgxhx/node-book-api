@@ -1,8 +1,10 @@
 # 移动书城api
 
-> 说明：本项目为[此项目](https://github.com/tgxhx/vue-reader)的api，数据为nodejs爬虫爬取，爬虫地址[在此](https://github.com/tgxhx/node-crawler)
+> 说明：本项目为[移动书城](https://github.com/tgxhx/vue-reader)的api，数据为nodejs爬虫爬取，爬虫地址[在此](https://github.com/tgxhx/node-crawler)
 
 > 使用了express构建，需配合爬虫爬取数据
+
+> 嫌麻烦也可使用本人的在线api[http://39.108.14.248:3333](http://39.108.14.248:3333/titles?id=1) 
 
 ## 接口说明
 
