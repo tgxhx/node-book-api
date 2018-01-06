@@ -4,7 +4,7 @@
 
 > 使用了express构建，需配合爬虫爬取数据
 
-> 在线api暂时关闭，提供sql文件下载，包含了api所需的数据，可直接导入mysql中，[下载地址](https://pan.baidu.com/s/1dEWW2lF) 
+> 在线api暂时关闭，提供sql文件下载，包含了api所需的数据，可直接导入mysql中，[下载地址](https://pan.baidu.com/s/1b08B3S) 
 
 ## 接口说明
 
