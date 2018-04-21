@@ -10,7 +10,7 @@
 
 ``` bash
 安装
-git clone git@github.com:tgxhx/node-crawler.git
+git clone git@github.com:tgxhx/node-book-api.git
 npm install
 
 运行
